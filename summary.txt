@@ -1,0 +1,4 @@
+The merge conflict was resolved by manually editing the README.md file. The conflict arose due to changes made in both the Test and Working branches. The student ID was added in the Test branch, while the Git version was added in the Working branch. The conflict markers were removed, and both changes were kept in the final version.
+1. Added relevant text to file1
+2. Added relevant text to file2
+3. Added relevant text to file3
